@@ -16,14 +16,17 @@ The ~2% gap to unity (G ≈ 0.0197) is irreducible: algebraic meets transcendent
 
 ## The Framework
 
-| Document | What it establishes |
-|----------|-------------------|
-| [Coherence Ceiling](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/The_Coherence_Ceiling_and_the_Geometric_Singularity_of_Binary.txt) | The constants and binary uniqueness |
-| [Geometric Constants v2](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/sqrt2_ln2_geometric_constants_v2.txt) | Corridor identity, golden partition, depth scaling |
-| [Complete Framework v3](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/KAUD_Complete_Framework_v3_0.txt) | Binary tower, Baker's map, Gelfond-Schneider, universality |
-| [Gap Scaling 400/11](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/Gap_Scaling_Formula_v1.5.txt) | Connecting geometric and chaotic residues |
+## Papers
 
-**Reading order:** Coherence Ceiling → v2 → v3 → Gap Scaling
+| # | Paper | PDF | Plain Text | Description |
+|---|-------|-----|------------|-------------|
+| 1 | Coherence Ceiling | [PDF](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/Paper1_Coherence_Ceiling.pdf) | [TXT](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/The_Coherence_Ceiling_and_the_Geometric_Singularity_of_Binary.txt) | Original discovery: the constants and binary uniqueness |
+| 2 | Geometric Constants v2 | [PDF](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/Paper2_Geometric_Constants_v2.pdf) | [TXT](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/sqrt2_ln2_geometric_constants_v2.txt) | Corridor identity, golden partition, depth scaling |
+| 3 | Complete Framework v3.3 | [PDF](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/Paper3_Complete_Framework_v3_3.pdf) | [TXT](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/KAUD_Complete_Framework_v3_0.txt) | Binary tower, Gelfond-Schneider, Baker's map, universality |
+| 4 | Gap Scaling 400/11 | [PDF](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/Paper4_Gap_Scaling_400_11.pdf) | [TXT](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-/blob/main/Gap_Scaling_Formula_v1.5.txt) | ρ = 400/11 − 1/2500 − 1/939939 (error: 4 × 10⁻¹⁴) |
+
+**Reading order:** 1 → 2 → 3 → 4
+
 
 📂 **[Main Repository](https://github.com/Gap-geometry/sqrt2-ln2-geometric-constants-)** — all documents, interactive tools, and full README
 
